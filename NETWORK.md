@@ -1,10 +1,11 @@
-# AI Agent Workflow
+# 🔗 Zion App Network
 
-Design and execute complex multi-agent workflows with conditional logic.
+This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [agents](https://github.com/Zion-support/agents)
-- Related: [ai-agent-workflow-builder](https://github.com/Zion-support/ai-agent-workflow-builder) · [zion-ai-workflow-automator](https://github.com/Zion-support/zion-ai-workflow-automator) · [ai-automation-builder](https://github.com/Zion-support/ai-automation-builder) · [zion-agent-handoff-designer](https://github.com/Zion-support/zion-agent-handoff-designer)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [ai-agent-workflow-builder](https://github.com/Zion-support/ai-agent-workflow-builder) · [ai-automation-builder](https://github.com/Zion-support/ai-automation-builder) · [zion-agent-handoff-flow](https://github.com/Zion-support/zion-agent-handoff-flow)
